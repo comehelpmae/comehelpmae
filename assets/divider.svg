@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="presentation"><defs><g id="paw"><ellipse cx="0" cy="3" rx="6" ry="5"/><ellipse cx="-7" cy="-4" rx="2.6" ry="3.2"/><ellipse cx="-2.6" cy="-8" rx="2.6" ry="3.2"/><ellipse cx="2.6" cy="-8" rx="2.6" ry="3.2"/><ellipse cx="7" cy="-4" rx="2.6" ry="3.2"/></g><path id="heart" d="M0 6C-10-2-7-10 0-5C7-10 10-2 0 6Z"/></defs><path d="M20 20Q75 4 130 20T240 20T350 20T460 20T570 20T680 20T790 20T880 20" stroke="#ffc2de" stroke-width="2" fill="none" stroke-dasharray="3 7" stroke-linecap="round"/>
-<g transform="translate(45 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.0s" repeatCount="indefinite"/></use></g>
-<g transform="translate(135 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.3s" repeatCount="indefinite"/></use></g>
-<g transform="translate(225 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.6s" repeatCount="indefinite"/></use></g>
-<g transform="translate(315 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.9s" repeatCount="indefinite"/></use></g>
-<g transform="translate(405 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-1.2s" repeatCount="indefinite"/></use></g>
-<g transform="translate(495 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-1.5s" repeatCount="indefinite"/></use></g>
-<g transform="translate(585 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-1.8s" repeatCount="indefinite"/></use></g>
-<g transform="translate(675 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-2.1s" repeatCount="indefinite"/></use></g>
-<g transform="translate(765 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-2.4s" repeatCount="indefinite"/></use></g>
-<g transform="translate(855 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-2.7s" repeatCount="indefinite"/></use></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="presentation"><path d="M0 20H300L318 20L328 6L340 34L352 12L360 20H540L552 20L562 8L574 32L584 20H900" stroke="#dc143c" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-dasharray="900" stroke-dashoffset="900"><animate attributeName="stroke-dashoffset" values="900;0;0;-900" keyTimes="0;.45;.7;1" dur="6s" repeatCount="indefinite"/></path>
+<path d="M60 14L66 20L60 26L54 20Z" fill="#ff3b5c"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="-0.0s" repeatCount="indefinite"/></path>
+<path d="M150 14L156 20L150 26L144 20Z" fill="#ff3b5c"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="-0.5s" repeatCount="indefinite"/></path>
+<path d="M240 14L246 20L240 26L234 20Z" fill="#ff3b5c"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="-1.0s" repeatCount="indefinite"/></path>
+<path d="M660 14L666 20L660 26L654 20Z" fill="#ff3b5c"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="-1.5s" repeatCount="indefinite"/></path>
+<path d="M750 14L756 20L750 26L744 20Z" fill="#ff3b5c"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="-2.0s" repeatCount="indefinite"/></path>
+<path d="M840 14L846 20L840 26L834 20Z" fill="#ff3b5c"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="-2.5s" repeatCount="indefinite"/></path>
 </svg>

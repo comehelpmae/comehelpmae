@@ -1,46 +1,46 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="comehelpmae: a chibi anime girl with cat ears and her cat under a sakura night sky" width="100%" />
+<img src="assets/banner.svg" alt="comehelpmae: a sad anime girl in black and white under falling rain" width="100%" />
 
 <a href="https://github.com/comehelpmae">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF6FAE&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Lua+%C2%B7+Ruby+%E2%99%A1;C%2B%2B+%C2%B7+Rust+%E2%99%A1;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%E2%99%A1;Always+building+something+new+%3A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=DC143C&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Lua+%C2%B7+Ruby;C%2B%2B+%C2%B7+Rust;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React;Always+building+something+in+the+dark" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=comehelpmae&style=for-the-badge&color=ff6fae&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/github/followers/comehelpmae?style=for-the-badge&color=ff6fae&logo=github" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=comehelpmae&style=for-the-badge&color=dc143c&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://img.shields.io/github/followers/comehelpmae?style=for-the-badge&color=dc143c&labelColor=0b0b0f&logo=github" alt="followers" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
 </div>
 
-## 🌸 About me
+## 🖤 About me
 
-I like making things work, and then making them work better. I move between scripting, systems and the web depending on what the project needs, usually with a cat nearby. :3
+I like making things work, and then making them work better. I move between scripting, systems and the web depending on what the project needs, mostly late at night with the lights off.
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🐾 Languages & tools
+## 🥀 Languages & tools
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,lua,ruby,cpp,rust,html,css,js,react&perline=9&theme=light" alt="Python, Lua, Ruby, C++, Rust, HTML, CSS, JavaScript, React" />
+  <img src="https://skillicons.dev/icons?i=py,lua,ruby,cpp,rust,html,css,js,react&perline=9&theme=dark" alt="Python, Lua, Ruby, C++, Rust, HTML, CSS, JavaScript, React" />
 </a>
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-ff9ecb?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-c8a2ff?style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-ff8fb8?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/C++-a5b4ff?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-ffb3c9?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0b0b0f?style=for-the-badge&logo=python&logoColor=ff3b5c)
+![Lua](https://img.shields.io/badge/Lua-0b0b0f?style=for-the-badge&logo=lua&logoColor=ff3b5c)
+![Ruby](https://img.shields.io/badge/Ruby-0b0b0f?style=for-the-badge&logo=ruby&logoColor=ff3b5c)
+![C++](https://img.shields.io/badge/C++-0b0b0f?style=for-the-badge&logo=cplusplus&logoColor=ff3b5c)
+![Rust](https://img.shields.io/badge/Rust-0b0b0f?style=for-the-badge&logo=rust&logoColor=ff3b5c)
 
-![HTML5](https://img.shields.io/badge/HTML5-ffa8c9?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-b9a4ff?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffc2dd?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-9fc5ff?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0b0b0f?style=for-the-badge&logo=html5&logoColor=ff3b5c)
+![CSS3](https://img.shields.io/badge/CSS3-0b0b0f?style=for-the-badge&logo=css3&logoColor=ff3b5c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0f?style=for-the-badge&logo=javascript&logoColor=ff3b5c)
+![React](https://img.shields.io/badge/React-0b0b0f?style=for-the-badge&logo=react&logoColor=ff3b5c)
 
 </div>
 
@@ -55,8 +55,8 @@ I like making things work, and then making them work better. I move between scri
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=comehelpmae&theme=radical&hide_border=true&background=0f0c29" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=comehelpmae&hide_border=true&background=0b0b0f&ring=dc143c&fire=ff3b5c&currStreakLabel=ff3b5c&sideLabels=9aa0a6&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e8,50:e3c8ff,100:bfd4ff&height=130&section=footer&text=meow%20%E2%99%A1&fontSize=30&fontColor=ff5fa2&fontAlignY=70" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,50:3a0a18,100:0b0b0f&height=130&section=footer&text=stay%20sad%2C%20keep%20coding&fontSize=26&fontColor=dc143c&fontAlignY=70" width="100%" alt="footer" />
