@@ -59,4 +59,4 @@ I like making things work, and then making them work better. I move between scri
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,50:3a0a18,100:0b0b0f&height=130&section=footer&text=stay%20sad%2C%20keep%20coding&fontSize=26&fontColor=dc143c&fontAlignY=70" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,50:3a0a18,100:0b0b0f&height=130&section=footer&text=i%27ll%20always%20be%20here..&fontSize=26&fontColor=dc143c&fontAlignY=70" width="100%" alt="footer" />
