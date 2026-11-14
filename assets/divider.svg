@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="presentation"><defs><g id="paw"><ellipse cx="0" cy="3" rx="6" ry="5"/><ellipse cx="-7" cy="-4" rx="2.6" ry="3.2"/><ellipse cx="-2.6" cy="-8" rx="2.6" ry="3.2"/><ellipse cx="2.6" cy="-8" rx="2.6" ry="3.2"/><ellipse cx="7" cy="-4" rx="2.6" ry="3.2"/></g><path id="heart" d="M0 6C-10-2-7-10 0-5C7-10 10-2 0 6Z"/></defs><path d="M20 20Q75 4 130 20T240 20T350 20T460 20T570 20T680 20T790 20T880 20" stroke="#ffc2de" stroke-width="2" fill="none" stroke-dasharray="3 7" stroke-linecap="round"/>
+<g transform="translate(45 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.0s" repeatCount="indefinite"/></use></g>
+<g transform="translate(135 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.3s" repeatCount="indefinite"/></use></g>
+<g transform="translate(225 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.6s" repeatCount="indefinite"/></use></g>
+<g transform="translate(315 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-0.9s" repeatCount="indefinite"/></use></g>
+<g transform="translate(405 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-1.2s" repeatCount="indefinite"/></use></g>
+<g transform="translate(495 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-1.5s" repeatCount="indefinite"/></use></g>
+<g transform="translate(585 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-1.8s" repeatCount="indefinite"/></use></g>
+<g transform="translate(675 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-2.1s" repeatCount="indefinite"/></use></g>
+<g transform="translate(765 21)"><use href="#paw" fill="#ff8fc3"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-2.4s" repeatCount="indefinite"/></use></g>
+<g transform="translate(855 18)"><use href="#heart" fill="#ff6fae"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="-2.7s" repeatCount="indefinite"/></use></g>
+</svg>
